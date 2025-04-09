@@ -7,7 +7,8 @@
 - B.S., Statistics | Dongguk University (_Mar. 2017 – Feb. 2024_)
 
 ## Work Experience
-**Researcher @ Predictive Analytics by Integrated Intelligence, LLC., Seoul, Republic of Korea  (_Mar. 2023 – Jan. 2024_)**
+**Researcher @ Predictive Analytics by Integrated Intelligence, LLC., Seoul, Republic of Korea**  
+**(_Mar. 2023 – Jan. 2024_)**
 - Applied Data Science techniques to analyze market trends, processed large datasets to extract actionable insights, and
 developed predictive models to support corporate decision-making and strategy development.
 - Enhanced article visibility by applying SEO best practices, including keyword optimization and analytics-driven topic
@@ -16,7 +17,8 @@ performing content with advertising placements.
 - Provided insightful AI and finance industry updates to 300-400 visitors per day, aimed at facilitating informed
 investment decisions.
 
-**Engineering Intern  @ Korea Data Agency Inc., Seoul, Republic of Korea (_Jun. 2021 – Sep. 2021_)**
+**Engineering Intern  @ Korea Data Agency Inc., Seoul, Republic of Korea**
+**(_Jun. 2021 – Sep. 2021_)**
 - Built a holistic, data-driven framework that empowered small-scale producers to enhance market positioning,
 attract diverse consumer segments—including the foreign market—and unlock the potential of digital marketing to
 revitalize a centuries-old industry with modern approaches.
