@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, SAS, Excel
 
 ## Education
-- M.S., Applied Statistics| University of Michigan - Ann Arbor (_Sep. 2025 – (Expected) May. 2027_)	 			        		
+- M.S., Applied Statistics | University of Michigan - Ann Arbor (_Sep. 2025 – (Expected) May. 2027_)	 			        		
 - B.S., Statistics | Dongguk University (_Mar. 2017 – Feb. 2024_)
 
 ## Work Experience
