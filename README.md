@@ -56,7 +56,7 @@ and accuracy for financial derivatives valuation. Technologies used: Python, Rec
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## MILITARY EXPERIENCE
-**National Service Conscript, The Ilsan Seobu Police Station (_Feb. 2019 – Nov. 2020_)
+**National Service Conscript, The Ilsan Seobu Police Station (_Feb. 2019 – Nov. 2020_)**
 - Conducted crime prevention patrols and maintained public safety through traffic flow management and safeguarding individuals and property in high-risk areas
 - Coordinated communication and on-site control to ensure order during peak congestion and emergency response situations
 
