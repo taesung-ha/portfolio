@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, SAS, Excel
 
 ## Education
-- M.S., Physics	| The University of Texas at Dallas (_Sep. 2025 – (Expected) May. 2027_)	 			        		
-- B.S., Physics | Dongguk University (_Mar. 2017 – Feb. 2024_)
+- M.S., Applied Statistics| University of Michigan - Ann Arbor (_Sep. 2025 – (Expected) May. 2027_)	 			        		
+- B.S., Statistics | Dongguk University (_Mar. 2017 – Feb. 2024_)
 
 ## Work Experience
 **Researcher @ Predictive Analytics by Integrated Intelligence, LLC., Seoul, Republic of Korea  (_ar. 2023 – Jan. 2024_)**
