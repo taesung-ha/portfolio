@@ -8,7 +8,6 @@
 
 ## Work Experience
 **Researcher @ Predictive Analytics by Integrated Intelligence, LLC.,**
-
 **Seoul, Republic of Korea (_Mar. 2023 – Jan. 2024_)**
 - Applied Data Science techniques to analyze market trends, processed large datasets to extract actionable insights, and
 developed predictive models to support corporate decision-making and strategy development.
@@ -19,7 +18,6 @@ performing content with advertising placements.
 investment decisions.
 
 **Engineering Intern  @ Korea Data Agency Inc.,**
-
 **Seoul, Republic of Korea (_Jun. 2021 – Sep. 2021_)**
 - Built a holistic, data-driven framework that empowered small-scale producers to enhance market positioning,
 attract diverse consumer segments—including the foreign market—and unlock the potential of digital marketing to
