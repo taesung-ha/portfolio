@@ -37,7 +37,7 @@ industry risks. This research aimed to provide a more data-driven approach to ev
 
 Technologies used: Python, PCA, LDA, GMM, DT, ARMA
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Gaussian Mixture](/assets/img/Gaussian_Mixture.png)
 
 ### Anomaly Detection in Sequential Data [Github](https://www.mdpi.com/1424-8220/22/11/4240)
 
@@ -48,6 +48,8 @@ environments.
 
 Technologies used: Python, SMOTE, KNN, SVM, ARMA, Logit, Probit, Bayesian approach
 
+![scatter](/assets/img/scatter.gif)
+
 ### Numerical Approximation to Put Option Pricing function [Github](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Designed and implemented computational methods to optimize put option pricing, improving computational efficiency
@@ -55,7 +57,7 @@ and accuracy for financial derivatives valuation.
 
 Technologies used: Python, Rectangular quadrature, FFT, MCMC
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![CE_RQvsFFT.png](/assets/img/CE_RQvsFFT.png)
 
 ## MILITARY EXPERIENCE
 **National Service Conscript, The Ilsan Seobu Police Station (_Feb. 2019 – Nov. 2020_)**
