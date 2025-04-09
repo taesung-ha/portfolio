@@ -28,8 +28,7 @@ to classify positive and negative reviews, extracting key positive and negative 
 - Developed a market segmentation strategy targeting foreign consumers, analyzing demand potential among 2.46
 million foreigners in Korea and K-culture enthusiasts worldwide. Highlighted opportunities by drawing parallels
 between Makgeolli and similar traditional beverages globally, such as Bolivia’s Chica.
-- Conducted cultural and market analysis to support product differentiation, visualizing factors such as acidity, sugar
-content, and ideal food pairings to position products as premium offerings.
+
 ## Projects
 ### Machine Learning-based Factor Modeling (Risk Management, Machine Learning)
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
