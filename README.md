@@ -1,33 +1,58 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, Snowflake, SAS, Excel
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Physics	| The University of Texas at Dallas (_Sep. 2025 – (Expected) May. 2027_)	 			        		
+- B.S., Physics | Dongguk University (_Mar. 2017 – Feb. 2024_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Researcher @ Predictive Analytics by Integrated Intelligence, LLC., Seoul, Republic of Korea  (_ar. 2023 – Jan. 2024_)**
+- Applied Data Science techniques to analyze market trends, processed large datasets to extract actionable insights, and
+developed predictive models to support corporate decision-making and strategy development.
+- Enhanced article visibility by applying SEO best practices, including keyword optimization and analytics-driven topic
+selection. Achieved approximately 30% traffic increase and a 20% boost in ad revenue by strategically aligning high-
+performing content with advertising placements.
+- Provided insightful AI and finance industry updates to 300-400 visitors per day, aimed at facilitating informed
+investment decisions.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+**Engineering Intern  @ Korea Data Agency Inc., Seoul, Republic of Korea (_Jun. 2021 – Sep. 2021_)**
+- Built a holistic, data-driven framework that empowered small-scale producers to enhance market positioning,
+attract diverse consumer segments—including the foreign market—and unlock the potential of digital marketing to
+revitalize a centuries-old industry with modern approaches.
+- Processed 317,313 reviews for 112 traditional Korean liquor products, leveraging NLP tools (Selenium, Mecab, TF-
+IDF, Word2Vec) to extract key consumer insights and identify untapped market opportunities.
+- Designed a personalized recommendation system using logistic regression and cosine similarity, offering tailored
+product suggestions to users while promoting lesser-known varieties to expand consumer awareness.logistic regression
+to classify positive and negative reviews, extracting key positive and negative words.
+- Developed a market segmentation strategy targeting foreign consumers, analyzing demand potential among 2.46
+million foreigners in Korea and K-culture enthusiasts worldwide. Highlighted opportunities by drawing parallels
+between Makgeolli and similar traditional beverages globally, such as Bolivia’s Chica.
+- Conducted cultural and market analysis to support product differentiation, visualizing factors such as acidity, sugar
+content, and ideal food pairings to position products as premium offerings.
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Machine Learning-based Factor Modeling (Risk Management, Machine Learning)
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Conducted a research-oriented project focusing on Macroeconomic Principal Component Analysis to understand stock return movements and
+industry risks. This research aimed to provide a more data-driven approach to evaluate the risk in financial markets.
+Technologies used: Python, PCA, LDA, GMM, DT, ARMA.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Anomaly Detection in Sequential Data (Credit Card Fraud Detection, Machine Learning)
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Analyzed the potential of an Early Stopping Model to enhance fraud detection by reducing delays in identifying suspicious
+transactions. The project emphasized improving operational efficiency and minimizing financial losses by balancing
+detection accuracy with timely alerts, offering insights into scalable solutions for fraud prevention in dynamic business
+environments. Technologies used: Python, SMOTE, KNN, SVM, ARMA, Logit, Probit, Bayesian approach
+
+### Numerical Approximation to Put Option Pricing function (Derivatives Valuation, Scientific Programming)
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+Designed and implemented computational methods to optimize put option pricing, improving computational efficiency
+and accuracy for financial derivatives valuation. Technologies used: Python, Rectangular quadrature, FFT, MCMC.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
