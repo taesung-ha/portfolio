@@ -35,7 +35,7 @@ between Makgeolli and similar traditional beverages globally, such as Bolivia’
 Conducted a research-oriented project focusing on Macroeconomic Principal Component Analysis to understand stock return movements and
 industry risks. This research aimed to provide a more data-driven approach to evaluate the risk in financial markets.
 
-Technologies used: Python, PCA, LDA, GMM, DT, ARMA
+**Technologies used: Python, PCA, LDA, GMM, DT, ARMA**
 
 ![Gaussian Mixture](/assets/img/Gaussian_Mixture.png)
 
@@ -46,7 +46,7 @@ transactions. The project emphasized improving operational efficiency and minimi
 detection accuracy with timely alerts, offering insights into scalable solutions for fraud prevention in dynamic business
 environments. 
 
-Technologies used: Python, SMOTE, KNN, SVM, ARMA, Logit, Probit, Bayesian approach
+**Technologies used: Python, SMOTE, KNN, SVM, ARMA, Logit, Probit, Bayesian approach**
 
 ![scatter](/assets/img/scatter.gif)
 
@@ -55,7 +55,7 @@ Technologies used: Python, SMOTE, KNN, SVM, ARMA, Logit, Probit, Bayesian approa
 Designed and implemented computational methods to optimize put option pricing, improving computational efficiency
 and accuracy for financial derivatives valuation. 
 
-Technologies used: Python, Rectangular quadrature, FFT, MCMC
+**Technologies used: Python, Rectangular quadrature, FFT, MCMC**
 
 ![CE_RQvsFFT.png](/assets/img/CE_RQvsFFT.png)
 
