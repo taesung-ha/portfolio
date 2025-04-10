@@ -36,7 +36,7 @@ between Makgeolli and similar traditional beverages globally, such as Bolivia’
 
 <!--[Github](https://www.mdpi.com/1424-8220/22/8/3048) -->
 
-Conducted a research-oriented project focusing on Macroeconomic Principal Component Analysis to understand stock return movements and
+- Conducted a research-oriented project focusing on Macroeconomic Principal Component Analysis to understand stock return movements and
 industry risks. This research aimed to provide a more data-driven approach to evaluate the risk in financial markets.
 
 **Technologies used: Python, PCA, LDA, GMM, DT, ARMA**
@@ -47,7 +47,7 @@ industry risks. This research aimed to provide a more data-driven approach to ev
 
 <!--[Github](https://www.mdpi.com/1424-8220/22/11/4240) -->
 
-Analyzed the potential of an Early Stopping Model to enhance fraud detection by reducing delays in identifying suspicious
+- Analyzed the potential of an Early Stopping Model to enhance fraud detection by reducing delays in identifying suspicious
 transactions. The project emphasized improving operational efficiency and minimizing financial losses by balancing
 detection accuracy with timely alerts, offering insights into scalable solutions for fraud prevention in dynamic business
 environments. 
@@ -60,7 +60,7 @@ environments.
 
 <!-- [Github](https://www.mdpi.com/1424-8220/22/11/4240) -->
 
-Designed and implemented computational methods to optimize put option pricing, improving computational efficiency
+- Designed and implemented computational methods to optimize put option pricing, improving computational efficiency
 and accuracy for financial derivatives valuation. 
 
 **Technologies used: Python, Rectangular quadrature, FFT, MCMC**
