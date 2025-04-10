@@ -79,11 +79,11 @@ exceptional academic performance, earning a tuition reduction. (Feb. 2018)
 - Coordinated communication and on-site control to ensure order during peak congestion and emergency response situations
 
 ## VOLUNTEER EXPERIENCE
-** Choir Leader and Volunteer, Local Cathedral (Jan. 2017 – Jan. 2019) **
+**Choir Leader and Volunteer, Local Cathedral (Jan. 2017 – Jan. 2019)**
 - Led and directed the church choir, organizing weekly rehearsals and performances to strengthen community ties.
 - Enhanced team coordination and musical quality through effective leadership and collaboration.
 
-** Education Volunteer, Holt School (May. 2013 – Feb. 2014) **
+**Education Volunteer, Holt School (May. 2013 – Feb. 2014)**
 - Supported the education and personal development of marginalized and disabled students by providing one-on-one, assistance and fostering an inclusive, supportive learning environment.
 
 ## Certifications
