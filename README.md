@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, SAS, Excel
+#### Technical Skills: Salesforce, Hubspot, Python, SQL, AWS, Snowflake, SAS, Excel
 
 ## Education
 - M.S., Applied Statistics | University of Michigan - Ann Arbor (_Sep. 2025 – (Expected) May. 2027_)	 			        		
