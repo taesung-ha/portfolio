@@ -67,16 +67,24 @@ and accuracy for financial derivatives valuation.
 
 ![CE_RQvsFFT.png](/assets/img/CE_RQvsFFT.png)
 
-## MILITARY EXPERIENCE
-**National Service Conscript, The Ilsan Seobu Police Station (_Feb. 2019 – Nov. 2020_)**
-- Conducted crime prevention patrols and maintained public safety through traffic flow management and safeguarding individuals and property in high-risk areas
-- Coordinated communication and on-site control to ensure order during peak congestion and emergency response situations
-
 ## HONORS & AWARDS
 - Academic Senior Scholarship: Recognized as the top student (1/47) in the ‘Probability and Statistics’ course for
 exceptional academic performance, earning a tuition reduction. (Feb. 2018)
 - Commendation for Contribution to Police Administration (Oct 2019)
 - Completion of Half Marathon hosted by Money Today in 1:52:52 (Mar 2024)
+
+## MILITARY EXPERIENCE
+**National Service Conscript, The Ilsan Seobu Police Station (_Feb. 2019 – Nov. 2020_)**
+- Conducted crime prevention patrols and maintained public safety through traffic flow management and safeguarding individuals and property in high-risk areas
+- Coordinated communication and on-site control to ensure order during peak congestion and emergency response situations
+
+## VOLUNTEER EXPERIENCE
+** Choir Leader and Volunteer, Local Cathedral (Jan. 2017 – Jan. 2019)
+- Led and directed the church choir, organizing weekly rehearsals and performances to strengthen community ties.
+- Enhanced team coordination and musical quality through effective leadership and collaboration.
+
+** Education Volunteer, Holt School (May. 2013 – Feb. 2014)
+- Supported the education and personal development of marginalized and disabled students by providing one-on-one, assistance and fostering an inclusive, supportive learning environment.
 
 ## Certifications
 - Korean Computer Specialist in Office Automation – Proficient in advanced Excel and Access functions
