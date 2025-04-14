@@ -84,7 +84,7 @@ and accuracy for financial derivatives valuation.
 - Academic Senior Scholarship: Recognized as the top student (1/47) in the ‘Probability and Statistics’ course for
 exceptional academic performance, earning a tuition reduction. (Feb. 2018)
 - Commendation for Contribution to Police Administration (Oct 2019)
-- Completion of Half Marathon hosted by Money Today in 1:52:52 (Mar 2024)
+- Completed the 29th Samcheok Hwang Young-cho International Full Marathon in 4:18:48 (April 2025)
 
 ## Certifications
 - Korean Computer Specialist in Office Automation – Proficient in advanced Excel and Access functions
